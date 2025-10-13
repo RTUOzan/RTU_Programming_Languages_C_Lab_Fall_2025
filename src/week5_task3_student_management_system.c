@@ -1,4 +1,6 @@
 // week5_task3_student_management_system.c
+//* Author: Ozan Yurekli
+// * Student ID: 230ADB077
 // Task 3: Mini-project – Student management system with file persistence
 // Week 5 – Files & Modular Programming
 

@@ -1,4 +1,6 @@
 // week5_task1_file_io.c
+//* Author: Ozan Yurekli
+// * Student ID: 230ADB077
 // Task 1: Read and write data from text files
 // Week 5 – Files & Modular Programming
 

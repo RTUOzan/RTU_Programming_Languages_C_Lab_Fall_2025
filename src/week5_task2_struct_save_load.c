@@ -1,4 +1,6 @@
 // week5_task2_struct_save_load.c
+//* Author: Ozan Yurekli
+// * Student ID: 230ADB077
 // Task 2: Save and load structured records from a file
 // Week 5 – Files & Modular Programming
 

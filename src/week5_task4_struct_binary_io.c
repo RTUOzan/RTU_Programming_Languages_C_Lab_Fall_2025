@@ -1,4 +1,6 @@
 // week5_task4_struct_binary_io.c
+//* Author: Ozan Yurekli
+// * Student ID: 230ADB077
 // Task 4: Save and load structured records in binary format
 // Week 5 – Files & Modular Programming
 
